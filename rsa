@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """
 Factorize numbers in a file into a product of two prime numbers
 """
